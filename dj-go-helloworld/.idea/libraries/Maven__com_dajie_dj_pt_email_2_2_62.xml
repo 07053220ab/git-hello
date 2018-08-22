@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dajie:dj-pt-email:2.2.62">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-pt-email/2.2.62/dj-pt-email-2.2.62.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-pt-email/2.2.62/dj-pt-email-2.2.62-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-pt-email/2.2.62/dj-pt-email-2.2.62-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

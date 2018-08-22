@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dj-job-webapp:war">
+    <output-path>D:/dj/branches/dj-job-webapp-overseas/target</output-path>
+    <root id="archive" name="dj-job-webapp-2.5.2-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dj-job-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

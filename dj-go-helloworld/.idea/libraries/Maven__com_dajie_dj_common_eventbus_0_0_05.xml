@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dajie:dj-common-eventbus:0.0.05">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-common-eventbus/0.0.05/dj-common-eventbus-0.0.05.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-common-eventbus/0.0.05/dj-common-eventbus-0.0.05-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-common-eventbus/0.0.05/dj-common-eventbus-0.0.05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

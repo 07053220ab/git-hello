@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dajie:dj-guanke-queue:2.2.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-guanke-queue/2.2.8/dj-guanke-queue-2.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-guanke-queue/2.2.8/dj-guanke-queue-2.2.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dajie/dj-guanke-queue/2.2.8/dj-guanke-queue-2.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
